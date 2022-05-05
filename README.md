@@ -1,2 +1,8 @@
-# AAA-Calibration-Work-Order-App
-Pete Huben's Windows 8/10 Application for creating and submitting customer work orders as well as generation of certificates
+# AAA-Calibratio Work Order Application (Win 8/10) 
+Pete Huben's Win 8/10 Application
+
+For creating, submitting work orders and generating certificate of qc for customers, and vendors
+
+
+
+
