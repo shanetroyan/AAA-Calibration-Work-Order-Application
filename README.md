@@ -1,10 +1,10 @@
-#AAA-Calibration Work Order (OS: Windows 10) 
-Client: Pete Huben
+Project Title: AAA Calibration Business Application 
+Client/Customer: Pete Huben
 Company: AAA Calibration
 Address: 12916 Farmington Rd, Livonia, MI 48150, USA
 Phone Number: +1 (734) 261-8830
 Application Type/Function: POS/WO/Certificate Client Program/Application
-
+OS: Win 8/10, Web
 Purpose: It will allow the employee(s) to catalog, organize, create, modify, and submit work orders more efficiently in addition to having the ability to generate certificates which assures the QA/QC for the clent's customers and/or vendors that their instruments are up to specs and within the margin of error that is acceptable.
 
 
