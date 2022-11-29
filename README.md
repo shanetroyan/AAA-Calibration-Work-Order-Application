@@ -1,10 +1,18 @@
 Project Title: AAA Calibration Business Application 
+
 Client/Customer: Pete Huben
-Company: AAA Calibration
-Address: 12916 Farmington Rd, Livonia, MI 48150, USA
-Phone Number: +1 (734) 261-8830
+
+Company Name: AAA Calibration
+
+Business Address: 12916 Farmington Rd, Livonia, MI 48150, USA
+
+Company Phone Number: +1 (734) 261-8830
+
 Application Type/Function: POS/WO/Certificate Client Program/Application
-OS: Win 8/10, Web
+
+OS: Windows 8/10
+Web: (HTML/CSS/JS/Gecko - Chrome/Firefox)
+
 Purpose: It will allow the employee(s) to catalog, organize, create, modify, and submit work orders more efficiently in addition to having the ability to generate certificates which assures the QA/QC for the clent's customers and/or vendors that their instruments are up to specs and within the margin of error that is acceptable.
 
 
@@ -17,7 +25,7 @@ Design and construct an updated AIO (all in one) Work-Order/Point of Sale (pos)/
 
 
 
-Additional Languages and Resources:
+Required Languages and Resources:
 
 Visual Studio 2022 (C#/C++) (WinForm Container)
 Oracle SQL Developer
