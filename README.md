@@ -36,15 +36,26 @@ Wordpress
 Automated DB Backup - Wordpress (Addon/Extension)
 
 
-Outdated Prior Dependencies (Resolved)
+Outdated Prior Dependencies (Resolved):
 
-Microsoft Office for Professionals 97
+Initial Requirements:
+
+Software: 
+Microsoft Office for Professionals 97' (1997 extremely outdated)
 Access 97' (ACCDB)
 Excel 97' (Cell and Table Entry Data)
-Access 2003'
-Access 2010'
-Excel 2003'
-Excel 2010'
+OS: Windows 98 (Natively)
+
+Second-Stage Requirements:
+OS: Windows XP/2000 Professional
+Program: Access 2003' (Fixed code to update it stably to 2003)
+
+Access 2010' (Same as above, updated deprecated libs/function to run stably on 2010)
+
+Excel 2003' (Same as Line 44)
+
+Excel 2010'(Same as Line 47)
+
 DOS (Certificate Program ran on cmd)
 DOSBOX (Emulating DOS - 16-Bit Char on Windows 7)
 VMWare (Windows XP Emulation)
