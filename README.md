@@ -1,12 +1,10 @@
 Project Title: AAA Calibration Business Application 
 
-Client/Customer: Pete Huben
+Client/Customer: 
 
 Company Name: AAA Calibration
 
-Business Address: 12916 Farmington Rd, Livonia, MI 48150, USA
 
-Company Phone Number: +1 (734) 261-8830
 
 Application Type/Function: POS/WO/Certificate Client Program/Application
 
